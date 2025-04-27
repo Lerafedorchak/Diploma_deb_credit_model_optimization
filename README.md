@@ -20,7 +20,7 @@ racy and potential cost savings by redirecting resources from less productive co
 to those with a greater likelihood of resulting in repayment.
 
 # How to run the code?
-1) As our original dataset is pretty big we downloaded all the needed files to the Google Drive storage, so you need to click on the link and download the folder. There you will find all datasets and main.ipynb with the code.
+1) As our original dataset is pretty big we downloaded all the needed files to the Google Drive storage, so you need to click on the link https://drive.google.com/drive/folders/15WkyOY-8_WhkM3CkDVqxNv36uuoGLj4c?usp=sharing and download the folder. There you will find all datasets and main.ipynb with the code.
 2) You need to run main.ipynb from the very beginning (this will include both preprocessing the data and preparation for the modeling) or start running from the part "Start of the modeling (to skip preprocessing part)".
 3) See the model training outputs and the final result.
 
